@@ -1,0 +1,4 @@
+Review: Các thẻ HTML5
+* Các thẻ cơ bản:
+  - Thẻ tiêu đề: h1, .. h6
+  - Thẻ đoạn văn: <p>
